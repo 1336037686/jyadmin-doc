@@ -2,16 +2,16 @@
 
 <!--注意这里是相对路径-->
 - **🍇 快速开始**
-	- [简介](/notes/Demo.md)
+	- [简介](/doc/chapter01_快速开始/简介.md)	
 	- [快速了解](/notes/Demo.md)
 	- [快速开始](/notes/Demo.md)	
 - **🍈 技术栈与架构设计**
-	- [所用技术栈](/notes/Demo.md)
-	- [架构设计](/notes/Demo.md)	
+	- [所用技术栈](/doc/chapter02_技术栈与架构设计/所用技术栈.md)
+	- [架构设计](/doc/chapter02_技术栈与架构设计/系统架构设计.md)
 - **🍉 编码规范**
-	- [前端编码规范](/notes/Demo.md)
-	- [后端编码规范](/notes/Demo.md)
-	- [数据库编码规范](/notes/Demo.md)	
+	- [前端编码规范](/doc/chapter03_编码规范/前端编码规范.md)
+	- [后端编码规范](/doc/chapter03_编码规范/后端编码规范.md)
+	- [数据库编码规范](/doc/chapter03_编码规范/数据库规范.md)	
 - **🍊 基础框架设计与实现**
 	- 基础框架设计
 		- [基础报文设计](/notes/Demo.md)	
@@ -23,16 +23,21 @@
 		- [接口限流](/notes/Demo.md)	
 		- [基础工具类](/notes/Demo.md)	
 	- [注册/登录](/notes/Demo.md)		
-	- [系统日志](/notes/Demo.md)	
+	- 系统日志
+		- [操作日志](/doc/chapter04_基础框架设计与实现/系统日志-操作日志的设计与实现.md)	
+		- [系统运行日志](/notes/Demo.md)	
 	- [权限控制](/notes/Demo.md)	
 	- [代码生成](/notes/Demo.md)	
 	- [定时任务](/notes/Demo.md)	
 	- [数据字典](/notes/Demo.md)	
 	- [系统配置](/notes/Demo.md)	
-	- [系统监控](/notes/Demo.md)	
+	- [系统监控](/notes/Demo.md)
+		- [服务器监控](/notes/Demo.md)
+		- [数据库监控](/notes/Demo.md)
+		- [Api文档](/notes/Demo.md)		
 	- [附件管理](/notes/Demo.md)	
 	- [短信/邮件发送](/notes/Demo.md)	
-	- [系统基础信息](/doc/chapter04_基础框架设计与实现/整合caffeine实现本地缓存.md)
+	- [系统基础信息](/notes/Demo.md)	
 	- [本地缓存](/doc/chapter04_基础框架设计与实现/整合caffeine实现本地缓存.md)
 	- [其他功能](/notes/Demo.md)
 - **🥬 前端部分功能解读**	
