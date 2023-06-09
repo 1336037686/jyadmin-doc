@@ -27,7 +27,7 @@
 	- [注册/登录](/notes/Demo.md)
 	- 系统日志
 		- [操作日志](/doc/chapter04_基础框架设计与实现/系统日志-操作日志的设计与实现.md)	
-		- [系统运行日志](/notes/Demo.md)
+		- [系统运行日志](/doc/chapter04_基础框架设计与实现/系统日志-系统运行日志的设计与实现.md)
 	- [权限控制](/notes/Demo.md)	
 	- [代码生成](/notes/Demo.md)	
 	- [定时任务](/notes/Demo.md)	
